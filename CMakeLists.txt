@@ -1,3 +1,3 @@
 cmake_minimum_required(VERSION 3.16)
 
-include_directories(tensorflow/lite)
+add_subdirectory(tensorflow/lite)
